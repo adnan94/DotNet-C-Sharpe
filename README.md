@@ -1,8 +1,8 @@
 # DotNet-C-Sharpe
 
 #C# 
-#Variable
-#Datatypes
+\nVariable
+\nDatatypes
 #Constants
 #Operators (logical , arthematic , comparision)
 #Loops
